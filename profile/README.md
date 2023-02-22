@@ -29,7 +29,7 @@ CodeRyo 碼凌數位科技
 ## Announcement 公告  
 ```diff
 + 本團隊預計於2022年11月14日起正式更名為 CodeRyo（碼凌數位科技）。
-+ 這裡是另設的 Minecraft 專案區，其餘項目請至 @CodeRyoIT
++ 這裡是另設的 Minecraft 專案區，其餘項目請至 @teamCodeRyo
 ```
 
 歡迎共同貢獻開源專案，為開源社群盡一份心力！
