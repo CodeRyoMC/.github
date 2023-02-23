@@ -14,15 +14,6 @@ CodeRyoMC 生存伺服器
   http://coderyo.com/discord   
   
 </div>
-  
-<div align="left">
- <a href="https://paypal.me/15LIVETW" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                /></a>
-  <img src="https://komarev.com/ghpvc/?username=DreamFuture-S&&style=flat-square" align="center" />
-</div>
 
 ## Announcement 公告  
 ```diff
